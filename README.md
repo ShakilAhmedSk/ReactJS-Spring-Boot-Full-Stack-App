@@ -54,6 +54,4 @@ npm start
 cd spring-backend
 docker-compose up --build
 
-📍 API: http://localhost:8080
-📚 Swagger Docs: http://localhost:8080/swagger-ui/index.html
 
