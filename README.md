@@ -10,7 +10,6 @@ Service-oriented platform focusing on establishing and maintaining
 connections between consumers and small businesses in the The Arts,
 Entertainment, and Recreation sector.
 
-Click [here](https://www.hobbie.ch) to view the application.
 This application is subject to Copyright.
 
 <b>Applications</b>
